@@ -1,2 +1,2 @@
 # Git-Learning
-GIR LEARNING
+GIT LEARNING
